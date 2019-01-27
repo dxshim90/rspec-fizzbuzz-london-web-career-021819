@@ -2,8 +2,11 @@
 # See README.md for instructions on how to do this
 
 def fizzbuzz(fizz)
-  if fizz / 3 == 0
+  if fizz / 3 = nil
     return "Fizz"
+    elsif fizz / 5 = nil
+    return "Buzz"
+    
   end
 end
 
