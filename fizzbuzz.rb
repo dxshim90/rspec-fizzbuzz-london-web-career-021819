@@ -6,7 +6,7 @@ def fizzbuzz(fizz)
     return "Fizz"
     elsif fizz / 5 = nil
     return "Buzz"
-    
+  end
   end
 end
 
