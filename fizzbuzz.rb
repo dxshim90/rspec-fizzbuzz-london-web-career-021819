@@ -6,6 +6,6 @@ def fizzbuzz(fizz)
     return "Fizz"
   elsif fizz % 5 == 0
   return "Buzz"
-  elsif fizz % 3 == 0 
+  elsif fizz % 3 == 0 && fizz % 5 == 0
 end
 end
