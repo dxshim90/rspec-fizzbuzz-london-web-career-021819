@@ -5,5 +5,4 @@
 def fizzbuzz
   if fizz / 3 == 0
     return "Fizz"
-    binding.pry
 end
