@@ -2,9 +2,9 @@
 # See README.md for instructions on how to do this
 
 def fizzbuzz(fizz)
-  if fizz / 3 = nil
+  if fizz / 3 = 0
     return "Fizz"
-    elsif fizz / 5 = nil
+    elsif fizz / 5 = 0
     return "Buzz"
   end
   end
