@@ -4,5 +4,8 @@
 def fizzbuzz(fizz)
   if fizz % 3 == 0 
     return "Fizz"
-  end
+  elsif fizz % 5 == 0
+  return "Buzz"
+  elsif fizz % 3 ==0 && fizz % 5 == 0 
+  return "Fizzbuzz"
 end
